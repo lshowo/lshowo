@@ -1,6 +1,6 @@
 ## Hi there 👋 This is cara! ✨
 
-👩🏻‍💻 I'm Li Shanghao(Cara), a graduate student in HKU, majoring in Information Management. I serve as a RA of Dr. Shihui Feng and my research is about network analysis. I love programming because I love to learn and create new things. ✨
+👩🏻‍💻 I'm Li Shanghao(Cara), a graduate student at HKU, majoring in Information Management. I serve as a RA of Dr. Shihui Feng and my research is about network analysis. I love programming because I love to learn and create new things. ✨
 
 
 ### 💻 My Tech Stack
