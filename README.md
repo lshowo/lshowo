@@ -1,7 +1,7 @@
 
 ### 📮 How to contact me
 
-[Gmail](lshcara@gmail.com)
+[Gmail](shanghaolicara@gmail.com)
 
 <!--START_SECTION:waka-->
 
