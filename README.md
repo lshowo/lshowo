@@ -8,7 +8,7 @@
 - 🤖 I'm working on two researches(Energames/Exertion Games with health effects and a metaverse literature review), PhD application, and personal academic website design.
 - 👭 Reach me at shanghaolicara@gmail.com for collaboration.
 
-
+#### My Weekly Coding Time Report ####
 <!--START_SECTION:waka-->
 ```text
 sh           2 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   44.95 %
