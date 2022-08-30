@@ -6,7 +6,7 @@
 - 🍹 I've got extensive skills in embedded programming, front-end development, and data analysis.
 - 🤖 I'm working on two researches(Energames/Exertion Games with health effects and a metaverse literature review), PhD application, and personal academic website design.
 - 👭 Reach me at shanghaolicara@gmail.com for collaboration.
-- [Gmail](shanghaolicara@gmail.com)
+
 
 <!--START_SECTION:waka-->
 ```text
