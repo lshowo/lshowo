@@ -1,7 +1,8 @@
 
 ### 📮 How to contact me
 
-- 🦜 Hi, I’m Shanghao
+- 🦜 Hi, I’m Shanghao![WechatIMG796](https://user-images.githubusercontent.com/34123188/187354893-a9ddbc19-3fda-41e3-aee5-6ae5edcf1854.jpeg)
+
 - 🔮 I’m interested in Human-Computer Interaction(HCI), information visualization(InfoVis), and Computational Social Science(CSS).
 - 🍹 I've got extensive skills in embedded programming, front-end development, and data analysis.
 - 🤖 I'm working on two researches(Energames/Exertion Games with health effects and a metaverse literature review), PhD application, and personal academic website design.
